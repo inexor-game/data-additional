@@ -11,6 +11,7 @@ sheik_cream.png
 sheik_cyan.png
 sheik_pink.png
 sheik_white.png
+lava.png
 
 
 For questions, concerns, or to simply give feedback, please email sheik@inexor.org
